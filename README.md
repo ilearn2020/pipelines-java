@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/HuyDuong0942/Pipelines/_apis/build/status/ilearn2020.pipelines-java?branchName=master)](https://dev.azure.com/HuyDuong0942/Pipelines/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
